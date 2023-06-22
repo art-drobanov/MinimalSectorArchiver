@@ -1,2 +1,2 @@
 # MinimalSectorArchiver
-Minimal fault-tolerant data encoding
+Minimal fault-tolerant data encoding of archives on virtual sectors level
